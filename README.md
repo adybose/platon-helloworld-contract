@@ -1,4 +1,4 @@
-# hello-world-platon-contract
+# platon-helloworld-contract
 A simple Solidity project to deploy a HelloWorld.sol smart contract on the PlatON/Alaya network
 
 # Usage
